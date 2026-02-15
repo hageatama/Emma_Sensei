@@ -5,6 +5,8 @@ autoSwitchAppearance = true
 [homepage]
   layout = "profile"
   showRecent = true
+  showRecentItems = 10
+  showMoreLink = false
 
 [article]
   showDate = true
