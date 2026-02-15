@@ -3,7 +3,9 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 
 [homepage]
-  layout = "profile"
+  layout = "background"
+  homepageImage = "img/background.png"
+  layoutBackgroundBlur = false
   showRecent = true
   showRecentItems = 10
   showMoreLink = false
