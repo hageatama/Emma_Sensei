@@ -1,6 +1,6 @@
 baseURL = 'https://emma.hageatama.org/'
 languageCode = 'ja'
-title = 'Emma Sensei'
+title = 'Emmaの日記'
 theme = 'blowfish'
 defaultContentLanguage = 'ja'
 
