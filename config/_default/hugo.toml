@@ -1,0 +1,8 @@
+baseURL = 'https://hageatama.github.io/Emma_Sensei/'
+languageCode = 'ja'
+title = 'Emma Sensei'
+theme = 'blowfish'
+defaultContentLanguage = 'ja'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

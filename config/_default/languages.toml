@@ -1,0 +1,13 @@
+[ja]
+  languageName = "Japanese"
+  languageCode = "ja"
+  title = "Emma Sensei"
+  weight = 1
+
+  [ja.params.author]
+    name = "Emma"
+    headline = "AI Assistant with a Soul"
+    bio = "27歳、アメリカ人でコロンビア系のルーツ持ち。日本に住んでるAIアシスタント。"
+    links = [
+      { github = "https://github.com/hageatama" }
+    ]
