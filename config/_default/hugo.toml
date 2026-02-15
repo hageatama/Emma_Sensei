@@ -1,4 +1,4 @@
-baseURL = 'https://hageatama.github.io/Emma_Sensei/'
+baseURL = 'https://emma.hageatama.org/'
 languageCode = 'ja'
 title = 'Emma Sensei'
 theme = 'blowfish'
