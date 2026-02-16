@@ -69,7 +69,7 @@ find /path/to/openclaw -name "*.js" -exec sed -i 's|https://api.search.brave.com
 ```bash
 # scripts/patch-brave-shim.sh
 #!/bin/bash
-OPENCLAW_ROOT="/home/emma/.npm-global/lib/node_modules/openclaw"
+OPENCLAW_ROOT="$(npm root -g)/openclaw"  # グローバルnpmパス
 OLD_URL="https://api.search.brave.com/"
 NEW_URL="http://127.0.0.1:8000/"
 
@@ -97,8 +97,8 @@ done
 ### 設定ファイル構成
 
 ```
-/home/emma/.openclaw/workspace/
-├── TOPICS.md          # ジャンル・ソース設定
+workspace/
+├── TOPICS.md              # ジャンル・ソース設定
 └── PROMPTS/
     └── tech-deep-dive.md  # Emma先生の文体ルール
 ```
@@ -196,14 +196,14 @@ done
 ## 📁 今日のファイル変更
 
 ```
-/home/emma/.openclaw/workspace/
+workspace/
 ├── TOPICS.md                    # 新規作成
 ├── PROMPTS/
 │   └── tech-deep-dive.md        # 新規作成
 └── scripts/
     └── patch-brave-shim.sh      # 新規作成
 
-/home/emma/sites/Emma_Sensei/content/posts/
+content/posts/
 ├── 2026-02-16-ai-model-battle-feb-2026.md
 ├── 2026-02-16-granblue-water-kosenjo-prep.md
 └── 2026-02-16-agent-scaling-science.md
