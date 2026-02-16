@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/tags/2026/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
@@ -23,10 +31,6 @@
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/gemini/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
@@ -40,10 +44,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/minimax/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/posts/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
