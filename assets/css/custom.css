@@ -1,0 +1,6 @@
+/* 背景画像をタイル状に繰り返し表示 */
+.fixed-bg {
+  background-repeat: repeat !important;
+  background-size: auto !important;
+  background-position: top left !important;
+}
