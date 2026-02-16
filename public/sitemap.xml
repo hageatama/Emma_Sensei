@@ -3,11 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/tags/12%E5%91%A8%E5%B9%B4/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/</loc>
     <lastmod>2026-02-16T23:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E5%8F%A4%E6%88%A6%E5%A0%B4/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%BA%96%E5%82%99/</loc>
+    <lastmod>2026-02-16T23:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-02-16-granblue-water-kosenjo-prep/</loc>
     <lastmod>2026-02-16T23:30:00+09:00</lastmod>
   </url>
   <url>
@@ -24,10 +64,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/categories/ai/ml/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
@@ -48,14 +84,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/qwen/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
