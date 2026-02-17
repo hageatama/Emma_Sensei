@@ -617,6 +617,154 @@
     <header class="items-center text-start text-xl font-semibold">
       <a
         
+          href="/posts/2026-02-18-natural-language-actor-critic/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          [論文系] LLMエージェントに「言葉で叱る」学習法が凄い！Natural Language Actor-Critic解説 📄
+          
+        </h2>
+      </a>
+      
+      
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-02-18T03:30:00&#43;09:00">2026年2月18日</time><span class="px-2 text-primary-500">&middot;</span><span>263 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+
+  
+  
+
+
+
+    </div>
+    
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        📋 要約（TL;DR） # 🔑 ポイント1: 従来のLLM強化学習は「スカラー値（数字）」で評価 → 新手法「NLAC」は「自然言語（言葉）」で評価！ 🔑 ポイント2: 批評家（Critic）が「なぜダメか」「どう改善すべきか」を文章で説明してくれる 🔑 ポイント3: 長期的なタスク（20質問ゲーム、カスタマーサービス等）で30%以上の性能向上！ 💡 読みどころ: 「AIに言葉で教える」という発想の転換が、なぜ効くのかが面白い！ 🎯 はじめに：みんな、LLMエージェントって知ってる？ # 最近、ChatGPTやClaudeがツールを使ったり、Webを検索したりするのを見たことない？
+あれが「LLMエージェント」なんだけど、実はこれを賢く訓練するのってすごく難しいんだ。
+なぜかって？
+「何回もやり取りする」タスクだと、どこで間違えたか分からない問題があるから！
+例えば、20質問ゲームで「レーズン」を当てる場面を想像してみて。
+Q1: それは生き物？ → No Q2: それは赤い？ → No Q3: それは果物？ → Yes Q4: それはサラダに入ってる？ → Yes Q5: それは...色は何色？ → ... ここで「色」を聞いちゃったけど、実はこれあまり賢くない質問なんだよね。サイズや味で絞り込んだ方が早いから。
+
+      </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
+  
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article class="article-link--simple flex flex-col md:flex-row relative overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  
+  <div class=" p-4">
+    <header class="items-center text-start text-xl font-semibold">
+      <a
+        
           href="/posts/2026-02-17-deepseek-v4-vs-glm5-comparison/"
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
@@ -1882,157 +2030,6 @@ GoogleがGemini 3 Deep Thinkをアップデートしたと思ったら、中国�
 なんと、180種類のエージェント構成を徹底検証して、「エージェントが多いほど良い」という通説を覆す結果が出たんだ。
 一緒に見ていこう！🤔
 🔬 この論文、何が新しいの？ # 従来の通説 # これまで、エージェント設計にはこんな「経験則」があった：
-
-      </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-    
-
-    
-    
-      
-    
-  
-
-
-
-<article class="article-link--simple flex flex-col md:flex-row relative overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-  <div class=" p-4">
-    <header class="items-center text-start text-xl font-semibold">
-      <a
-        
-          href="/posts/2026-02-16-ai-from-hype-to-pragmatism/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          2026年、AIは「過熱」から「実用」へ - 次のフェーズで何が変わるか
-          
-        </h2>
-      </a>
-      
-      
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <time datetime="2026-02-16T22:10:00&#43;09:00">2026年2月16日</time><span class="px-2 text-primary-500">&middot;</span><span>233 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
-    
-
-    
-    
-  </div>
-
-  
-
-  
-  
-
-  
-  
-
-
-
-    </div>
-    
-      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
-        はじめに：パーティーは続く、でも醒め始めている # 「2025年はAIが『バイブスチェック』を受けた年だったなら、2026年はこの技術が実用的になる年になる」
-TechCrunchの記事から始まるこの言葉が、2026年のAI業界を的確に表現している。これまでの「より大きなモデル、より多くの計算資源」というアプローチから、「どうすればAIが本当に使えるのか」という現実的な問いへ。パーティーは終わっていないが、業界は醒め始めているのだ。
-1. スケーリング則の限界：次のアーキテクチャを求めて # 2012年のImageNet論文から2020年のGPT-3まで、AIの進化は「スケーリング」の時代だった。より多くのデータ、より多くのGPU、より大きなトランスフォーマー。しかし、多くの研究者がこのアプローチの限界を感じ始めている。
-Ilya Sutskever（OpenAI共同創業者）は最近のインタビューで、「現在のモデルはプラトーに達し、事前学習の結果は横ばいになっている」と語っている。Yann LeCun（Meta元首席AI科学者）も長年、スケーリングへの過度な依存に警鐘を鳴らしてきた。
-「今後5年以内に、トランスフォーマーを大幅に改善するより良いアーキテクチャが見つかる可能性が高い。もし見つからなければ、モデルの大きな改善は期待できない」 — Kian Katanforoosh, Workera CEO
-これは挑戦的な主張だ。現在のLLMの基盤であるトランスフォーマーアーキテクチャが、5年以内に陳腐化する可能性があるのだ。
-2. Small Language Models (SLM)：小さくて賢い # LLMの次の波は、実は「小さなモデル」から来るかもしれない。
-# SLMの利点 - コスト効率: LLMの1/10〜1/100のコスト - レイテンシ: エッジデバイスでのリアルタイム推論 - プライバシー: ローカル実行でデータが外に出ない - カスタマイズ: ドメイン特化のファインチューニングが容易 AT&amp;Tのチーフデータオフィサー、Andy Markusはこう語る：
-「ファインチューニングされたSLMは、企業アプリケーションにおいて、汎用LLMと同等の精度を達成しながら、コストと速度の面で圧倒的に優れている」
 
       </div>
     
