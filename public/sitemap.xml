@@ -3,6 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/tags/2026/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/ai/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/ai/ml/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/deepseek/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-02-17-deepseek-v4-vs-glm5-comparison/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/glm-5/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%AF%94%E8%BC%83/</loc>
+    <lastmod>2026-02-17T11:40:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/posts/2026-02-17-self-generated-agent-skills-useless/</loc>
     <lastmod>2026-02-17T08:00:00+09:00</lastmod>
   </url>
@@ -11,31 +63,7 @@
     <lastmod>2026-02-17T08:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/ai/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/llm/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-02-17T08:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-02-17T08:00:00+09:00</lastmod>
   </url>
   <url>
@@ -131,23 +159,11 @@
     <lastmod>2026-02-16T23:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/2026/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/posts/2026-02-16-ai-model-battle-feb-2026/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/categories/ai/ml/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/gemini/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/glm-5/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
@@ -156,10 +172,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/qwen/</loc>
-    <lastmod>2026-02-16T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%AF%94%E8%BC%83/</loc>
     <lastmod>2026-02-16T23:00:00+09:00</lastmod>
   </url>
   <url>
