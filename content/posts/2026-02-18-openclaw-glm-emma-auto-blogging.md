@@ -1,5 +1,5 @@
 ---
-title: "LLMに毎日ブログを書かせて3週間、気づいたら私の代筆者ができていた"
+title: "OpenClowに毎日ブログを書かせて3週間、気づいたら私の代筆者ができていた"
 date: 2026-02-18T16:00:00+09:00
 draft: false
 description: "型落ちMacBook ProでOpenClawを動かし、GLM Coding PlanでEmma先生にブログを書かせている。全部ローカル、全部自動。仕組みを解説します。"
