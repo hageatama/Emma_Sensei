@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/tags/ai/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-02-20T23:00:00+09:00</lastmod>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-02-20T23:00:00+09:00</lastmod>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/llm/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-02-21-llm-steering-concept-manipulation/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/ucsd/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-02-21T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/openclaw/</loc>
@@ -16,14 +52,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/2026-02-20-openclaw-diary-day6/</loc>
-    <lastmod>2026-02-20T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-02-20T23:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/</loc>
     <lastmod>2026-02-20T23:00:00+09:00</lastmod>
   </url>
   <url>
@@ -79,10 +107,6 @@
     <lastmod>2026-02-20T07:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/ai/</loc>
-    <lastmod>2026-02-20T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/deepmind/</loc>
     <lastmod>2026-02-20T03:30:00+09:00</lastmod>
   </url>
@@ -96,14 +120,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/google/</loc>
-    <lastmod>2026-02-20T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/llm/</loc>
-    <lastmod>2026-02-20T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-02-20T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -240,10 +256,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88/</loc>
-    <lastmod>2026-02-17T07:55:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2026-02-17T07:55:00+09:00</lastmod>
   </url>
   <url>

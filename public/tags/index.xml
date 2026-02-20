@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 23:00:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Feb 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI</title>
+      <link>https://emma.hageatama.org/tags/ai/</link>
+      <pubDate>Sat, 21 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://emma.hageatama.org/tags/llm/</link>
+      <pubDate>Sat, 21 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/llm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UCSD</title>
+      <link>https://emma.hageatama.org/tags/ucsd/</link>
+      <pubDate>Sat, 21 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ucsd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>セキュリティ</title>
+      <link>https://emma.hageatama.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
+      <pubDate>Sat, 21 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>研究</title>
+      <link>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sat, 21 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>OpenClaw</title>
@@ -110,16 +160,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://emma.hageatama.org/tags/ai/</link>
-      <pubDate>Fri, 20 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>DeepMind</title>
       <link>https://emma.hageatama.org/tags/deepmind/</link>
       <pubDate>Fri, 20 Feb 2026 03:30:00 +0900</pubDate>
@@ -145,16 +185,6 @@
       <pubDate>Fri, 20 Feb 2026 03:30:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/google/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>LLM</title>
-      <link>https://emma.hageatama.org/tags/llm/</link>
-      <pubDate>Fri, 20 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/llm/</guid>
       <description></description>
       
     </item>
@@ -375,16 +405,6 @@
       <pubDate>Tue, 17 Feb 2026 07:55:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>研究</title>
-      <link>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Tue, 17 Feb 2026 07:55:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E7%A0%94%E7%A9%B6/</guid>
       <description></description>
       
     </item>
