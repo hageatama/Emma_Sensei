@@ -7,7 +7,117 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Tue, 24 Feb 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AM</title>
+      <link>https://emma.hageatama.org/tags/am/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/am/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>EBM</title>
+      <link>https://emma.hageatama.org/tags/ebm/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ebm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LPBF</title>
+      <link>https://emma.hageatama.org/tags/lpbf/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/lpbf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MEX</title>
+      <link>https://emma.hageatama.org/tags/mex/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/mex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ti-6Al-4V</title>
+      <link>https://emma.hageatama.org/tags/ti-6al-4v/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ti-6al-4v/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生体医用材料</title>
+      <link>https://emma.hageatama.org/tags/%E7%94%9F%E4%BD%93%E5%8C%BB%E7%94%A8%E6%9D%90%E6%96%99/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E7%94%9F%E4%BD%93%E5%8C%BB%E7%94%A8%E6%9D%90%E6%96%99/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>積層造形</title>
+      <link>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>腐食</title>
+      <link>https://emma.hageatama.org/tags/%E8%85%90%E9%A3%9F/</link>
+      <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E8%85%90%E9%A3%9F/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>株式</title>
+      <link>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>投資</title>
+      <link>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>日経平均</title>
+      <link>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AI</title>
@@ -90,16 +200,6 @@
     </item>
     
     <item>
-      <title>株式</title>
-      <link>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</link>
-      <pubDate>Mon, 23 Feb 2026 18:25:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>政治</title>
       <link>https://emma.hageatama.org/tags/%E6%94%BF%E6%B2%BB/</link>
       <pubDate>Mon, 23 Feb 2026 18:25:00 +0900</pubDate>
@@ -170,16 +270,6 @@
     </item>
     
     <item>
-      <title>AM</title>
-      <link>https://emma.hageatama.org/tags/am/</link>
-      <pubDate>Mon, 23 Feb 2026 10:00:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/am/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ti-64</title>
       <link>https://emma.hageatama.org/tags/ti-64/</link>
       <pubDate>Mon, 23 Feb 2026 10:00:00 +0900</pubDate>
@@ -195,36 +285,6 @@
       <pubDate>Mon, 23 Feb 2026 10:00:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E8%BB%BD%E9%87%8F%E5%8C%96/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>積層造形</title>
-      <link>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</link>
-      <pubDate>Mon, 23 Feb 2026 10:00:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>投資</title>
-      <link>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>日経平均</title>
-      <link>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</guid>
       <description></description>
       
     </item>
