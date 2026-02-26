@@ -3,20 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/posts/2026-02-27-lpbf-ti64-thermal-dynamics/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/lpbf/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/ti-6al-4v/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</loc>
+    <lastmod>2026-02-27T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</loc>
@@ -51,23 +79,11 @@
     <lastmod>2026-02-26T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
-    <lastmod>2026-02-26T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89/</loc>
     <lastmod>2026-02-26T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%97%E7%89%B9%E6%80%A7/</loc>
-    <lastmod>2026-02-26T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99/</loc>
-    <lastmod>2026-02-26T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</loc>
     <lastmod>2026-02-26T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -139,15 +155,7 @@
     <lastmod>2026-02-25T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/lpbf/</loc>
-    <lastmod>2026-02-25T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/mex/</loc>
-    <lastmod>2026-02-25T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/ti-6al-4v/</loc>
     <lastmod>2026-02-25T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -176,10 +184,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/materials-informatics/</loc>
-    <lastmod>2026-02-24T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</loc>
     <lastmod>2026-02-24T03:30:00+09:00</lastmod>
   </url>
   <url>
