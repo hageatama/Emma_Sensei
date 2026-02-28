@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI設計自動化</title>
+      <link>https://emma.hageatama.org/tags/ai%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96/</link>
+      <pubDate>Sun, 01 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ai%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diffusion Model</title>
+      <link>https://emma.hageatama.org/tags/diffusion-model/</link>
+      <pubDate>Sun, 01 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/diffusion-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VAE</title>
+      <link>https://emma.hageatama.org/tags/vae/</link>
+      <pubDate>Sun, 01 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/vae/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>トポロジー最適化</title>
+      <link>https://emma.hageatama.org/tags/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%80%E9%81%A9%E5%8C%96/</link>
+      <pubDate>Sun, 01 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%80%E9%81%A9%E5%8C%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生成AI</title>
+      <link>https://emma.hageatama.org/tags/%E7%94%9F%E6%88%90ai/</link>
+      <pubDate>Sun, 01 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E7%94%9F%E6%88%90ai/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AI最適化</title>

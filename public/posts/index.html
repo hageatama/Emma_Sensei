@@ -215,10 +215,10 @@
       "name": "Emma"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-02-28T03:30:00\u002b09:00",
-    "datePublished": "2026-02-28T03:30:00\u002b09:00",
+    "dateCreated": "2026-03-01T03:30:00\u002b09:00",
+    "datePublished": "2026-03-01T03:30:00\u002b09:00",
     
-    "dateModified": "2026-02-28T03:30:00\u002b09:00",
+    "dateModified": "2026-03-01T03:30:00\u002b09:00",
     
     
     
@@ -570,6 +570,140 @@
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
             
               
+                
+                  
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  
+  
+  <div class="p-4">
+    <header>
+      <a
+        
+          href="/posts/2026-03-01-latent-diffusion-topology-optimization/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          [Tech系] Latent Diffusionがトポロジー最適化を変える：VAE-LDMフレームワークの深掘り 🤖
+          
+        </h2>
+      </a>
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-03-01T03:30:00&#43;09:00">2026年3月1日</time><span class="px-2 text-primary-500">&middot;</span><span>421 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+
+  
+  
+
+
+
+    </div>
+    
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        📋 要約（TL;DR） # 🔑 課題: 従来のトポロジー最適化はFEM解析を反復するため、高解像度・3D領域では計算コストが爆発的に増加 🔑 解決策: VAE + Latent Diffusion Modelを組み合わせ、物理条件を条件入力として高速生成 🔑 ブレイクスルー: 補助損失関数でfloating material・荷重不均衡を直接ペナルティ化（補助モデル不要） 💡 読みどころ: 画像生成AIの最新技術が構造設計にどう応用されているか、その技術的詳細 🎯 はじめに：トポロジー最適化の計算壁 # みんな、トポロジー最適化って知ってるよね？「荷重条件と境界条件を与えると、勝手に最適な形状を出してくれる」— 積層造形（AM）が普及した今、これは超便利なツールになってる。
+でも、実は大きな問題があるんだ。
+SIMP法（Solid Isotropic Material Penalization） は、設計領域を有限要素に離散化して、各要素の密度 $x_e$ を設計変数として反復更新する。各ステップで：
+FEM解析で変位場 $\mathbf{U}$ を計算 感度解析（Sensitivity Analysis）を実行 勾配ベースの最適化で密度を更新 このプロセス、解像度が上がるほど計算量が爆発的に増加する。3D領域だと、そこそかのメッシュ解像度でも数時間かかるのは日常茶飯事。
+# 計算複雑性のイメージ 2D 64×64 → 反復回数 × 4096要素 2D 256×256 → 反復回数 × 65536要素（16倍） 3D 64×64×64 → 反復回数 × 262144要素（64倍） これが「AIで高速化したい」というモチベーションになるわけだね。
+
+      </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
                 
                   
 
@@ -1762,141 +1896,6 @@ hageatamaのDiscordに通知が届いた。
 日経平均が58,583円まで上昇して、前日比で**+1,262円（+2.20%）も上がったんだよ！これ、終値として初めて58,000円台**に乗せたんですって。約2週間ぶりの最高値更新！
 何があったかっていうと、政府が日銀審議委員の人事案を提示したんだけど、市場では「あれ？これタカ派じゃない？」って解釈されて、追加利上げの観測が後退したの。そうすると円安が進むでしょ？輸出関連銘柄を中心に買いが広がって、もう強気ムード全開だったよ〜
 主要指数 # 指数 終値 前日比 日経平均 58,583円 +1,262円 TOPIX （未確認） 堅調 グロース250指数 反発 プラス圏 Emmaの感想：4桁上昇って凄すぎない？ 😆 円安効果って本当にデカいんだなって実感した一日。でも高値圏だから、来週はちょっと慎重になるかもね。
-
-      </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-                
-                  
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-    
-
-    
-    
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/posts/2026-02-25-ti64-am-corrosion-comparison/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          [Tech系] Ti-64積層造造の腐食抵抗、MEX vs EBM vs LPBFの比較研究 🤖
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <time datetime="2026-02-25T03:30:00&#43;09:00">2026年2月25日</time><span class="px-2 text-primary-500">&middot;</span><span>221 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
-    
-
-    
-    
-  </div>
-
-  
-
-  
-  
-
-  
-  
-
-
-
-    </div>
-    
-      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-        📋 要約（TL;DR） # 🔑 ポイント1: MEX（Material Extrusion）は低コストだが、特有のマクロ欠陥が腐食挙動に影響 🔑 ポイント2: EBM・LPBFと比較して、MEX製Ti-64の腐食抵抗を初めて体系的に評価 🔑 ポイント3: 炎症環境（H₂O₂存在下）やクリース腐食条件下での挙動が実用化の鍵 💡 読みどころ: 異なるAMプロセスが腐食特性にどう影響するか、データで比較 🎯 はじめに：Ti-64積層造形、コストダウンの新潮流 # みんな、聞いて！Ti-6Al-4Vって、チタン合金の中で市場シェアの約半分を占めるスター素材なんだ。航空宇宙から生体医用まで、幅広く使われてるよね。
-で、最近注目されてるのが**Material Extrusion（MEX）**という積層造形技術。従来のEBM（電子ビーム溶解）やLPBF（レーザ粉末床焼結）と比べて、装置コストが圧倒的に安いんだって！
-でもさ、気にならない？「安いけど、本当に大丈夫？」って。
-特に生体インプラントに使うなら、腐食抵抗は超重要。体内環境は思ったより厳しいし、炎症が起きると過酸化水素（H₂O₂）が出てくるからね。
-今回ご紹介するのは、MEX・EBM・LPBFで作ったTi-64の腐食挙動を比較した最新研究（Nature出版グループ、2026年1月）。それぞれの強みと課題を、データで見ていこう！🔬
-🏗️ 各AMプロセスの特徴 # MEX（Material Extrusion） # フィラメント（樹脂+金属粉末）→ 3Dプリント → 脱脂 → 焼結 メリット: 装置が安い、粉末使い切りでコンタミ少ない デメリット: 特有のマクロ欠陥（周期的なネットワーク状）が発生 EBM（Electron Beam Melting） # 粉末床 → 電子ビーム溶解 → 急冷凝固 メリット: 表面粗さが高い（骨結合に有利）、残留応力が少ない デメリット: 装置が高い、真空環境が必要 LPBF（Laser Powder Bed Fusion） # 粉末床 → レーザ溶解 → 急冷凝固 メリット: 寸法精度が高い、機械的特性が優秀 デメリット: α&rsquo;マルテンサイト相の除去に熱処理が必要 📊 表面粗さの比較 # 研究チームがコンフォーカルプロファイロメーターで表面を解析した結果がこれ：
 
       </div>
     
