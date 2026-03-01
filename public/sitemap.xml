@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/tags/ai/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/clip/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/materials-informatics/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E7%B5%90%E6%99%B6%E6%A7%8B%E9%80%A0/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E6%8E%A2%E7%B4%A2/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-02-clasp-text-crystal-structures/</loc>
+    <lastmod>2026-03-02T03:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/posts/2026-03-01-latent-diffusion-topology-optimization/</loc>
     <lastmod>2026-03-01T03:30:00+09:00</lastmod>
   </url>
@@ -11,27 +59,7 @@
     <lastmod>2026-03-01T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-03-01T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/diffusion-model/</loc>
-    <lastmod>2026-03-01T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-03-01T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-03-01T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-03-01T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-03-01T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -63,20 +91,12 @@
     <lastmod>2026-02-28T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/materials-informatics/</loc>
-    <lastmod>2026-02-28T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/ti-6al-4v/</loc>
     <lastmod>2026-02-28T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2/</loc>
     <lastmod>2026-02-28T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/ai/</loc>
-    <lastmod>2026-02-27T17:00:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/duolingo/</loc>
@@ -672,10 +692,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89/</loc>
-    <lastmod>2026-02-16T22:10:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
     <lastmod>2026-02-16T22:10:00+09:00</lastmod>
   </url>
   <url>
