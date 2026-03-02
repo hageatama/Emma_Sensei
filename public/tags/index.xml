@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Mar 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graph-Neural-Networks</title>
+      <link>https://emma.hageatama.org/tags/graph-neural-networks/</link>
+      <pubDate>Tue, 03 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/graph-neural-networks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://emma.hageatama.org/tags/machine-learning/</link>
+      <pubDate>Tue, 03 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Materials-Informatics</title>
+      <link>https://emma.hageatama.org/tags/materials-informatics/</link>
+      <pubDate>Tue, 03 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/materials-informatics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scaling-Laws</title>
+      <link>https://emma.hageatama.org/tags/scaling-laws/</link>
+      <pubDate>Tue, 03 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/scaling-laws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>材料科学</title>
+      <link>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Tue, 03 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>株式</title>
@@ -55,16 +105,6 @@
       <pubDate>Mon, 02 Mar 2026 03:30:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/clip/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Materials Informatics</title>
-      <link>https://emma.hageatama.org/tags/materials-informatics/</link>
-      <pubDate>Mon, 02 Mar 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/materials-informatics/</guid>
       <description></description>
       
     </item>
@@ -260,16 +300,6 @@
     </item>
     
     <item>
-      <title>材料科学</title>
-      <link>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Fri, 27 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ni基超合金</title>
       <link>https://emma.hageatama.org/tags/ni%E5%9F%BA%E8%B6%85%E5%90%88%E9%87%91/</link>
       <pubDate>Thu, 26 Feb 2026 03:30:00 +0900</pubDate>
@@ -435,16 +465,6 @@
       <pubDate>Wed, 25 Feb 2026 03:30:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E8%85%90%E9%A3%9F/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://emma.hageatama.org/tags/machine-learning/</link>
-      <pubDate>Tue, 24 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/machine-learning/</guid>
       <description></description>
       
     </item>
