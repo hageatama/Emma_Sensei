@@ -3,11 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://emma.hageatama.org/posts/2026-03-11-dissimilar-material-joining-multi-material/</loc>
-    <lastmod>2026-03-11T03:30:00+09:00</lastmod>
+    <loc>https://emma.hageatama.org/posts/2026-03-12-daily-stock-report/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/categories/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E3%82%A4%E3%83%A9%E3%83%B3%E6%83%85%E5%8B%A2/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E5%8E%9F%E6%B2%B9/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</loc>
+    <lastmod>2026-03-12T16:45:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/%E6%A0%AA%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/stock-report-2026-03-12/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-12-materials-informatics-2026-generative-ai-gnn-autonomous-labs/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/graph-neural-networks/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/materials-informatics/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E8%87%AA%E5%BE%8B%E5%AE%9F%E9%A8%93%E5%AE%A4/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E7%94%9F%E6%88%90ai/</loc>
+    <lastmod>2026-03-12T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-11-stock-report-day27/</loc>
+    <lastmod>2026-03-11T16:35:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/day%E7%95%AA%E5%8F%B7/</loc>
+    <lastmod>2026-03-11T16:35:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/stock-report-2026-03-11/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-11-dissimilar-material-joining-multi-material/</loc>
     <lastmod>2026-03-11T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -15,23 +107,7 @@
     <lastmod>2026-03-11T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-03-11T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/imc/</loc>
-    <lastmod>2026-03-11T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-03-11T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-03-11T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-03-11T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -53,22 +129,6 @@
   <url>
     <loc>https://emma.hageatama.org/tags/%E6%BA%B6%E6%8E%A5/</loc>
     <lastmod>2026-03-11T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/%E6%A0%AA%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/stock-report-2026-03-10/</loc>
@@ -96,10 +156,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/2026-03-09-stock-report/</loc>
-    <lastmod>2026-03-09T16:35:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E3%82%A4%E3%83%A9%E3%83%B3%E6%83%85%E5%8B%A2/</loc>
     <lastmod>2026-03-09T16:35:00+09:00</lastmod>
   </url>
   <url>
@@ -175,10 +231,6 @@
     <lastmod>2026-03-08T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/materials-informatics/</loc>
-    <lastmod>2026-03-07T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/posts/2026-03-07-materials-informatics-2026-generative-ai-autonomous-discovery/</loc>
     <lastmod>2026-03-07T03:30:00+09:00</lastmod>
   </url>
@@ -195,10 +247,6 @@
     <lastmod>2026-03-07T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/%E7%94%9F%E6%88%90ai/</loc>
-    <lastmod>2026-03-07T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/topix/</loc>
     <lastmod>2026-03-06T16:45:00+09:00</lastmod>
   </url>
@@ -208,10 +256,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E4%B8%AD%E6%9D%B1%E6%83%85%E5%8B%A2/</loc>
-    <lastmod>2026-03-06T16:45:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/%E6%8A%95%E8%B3%87/</loc>
     <lastmod>2026-03-06T16:45:00+09:00</lastmod>
   </url>
   <url>
@@ -295,10 +339,6 @@
     <lastmod>2026-03-03T17:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/%E5%8E%9F%E6%B2%B9/</loc>
-    <lastmod>2026-03-03T17:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/%E5%9C%B0%E6%94%BF%E5%AD%A6%E3%83%AA%E3%82%B9%E3%82%AF/</loc>
     <lastmod>2026-03-03T17:30:00+09:00</lastmod>
   </url>
@@ -339,19 +379,11 @@
     <lastmod>2026-03-03T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/graph-neural-networks/</loc>
-    <lastmod>2026-03-03T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/machine-learning/</loc>
     <lastmod>2026-03-03T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/scaling-laws/</loc>
-    <lastmod>2026-03-03T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/</loc>
     <lastmod>2026-03-03T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -556,10 +588,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/2026-02-24-materials-informatics-autonomous-discovery/</loc>
-    <lastmod>2026-02-24T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E8%87%AA%E5%BE%8B%E5%AE%9F%E9%A8%93%E5%AE%A4/</loc>
     <lastmod>2026-02-24T03:30:00+09:00</lastmod>
   </url>
   <url>
