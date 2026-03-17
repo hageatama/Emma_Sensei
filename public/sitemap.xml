@@ -3,36 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://emma.hageatama.org/tags/ai/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
     <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/gpu/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/groq/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/gtc2026/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/nvidia/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-17-nvidia-gtc-2026-complete-guide/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/verarubin/</loc>
+    <lastmod>2026-03-17T15:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/categories/%E6%A0%AA%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</loc>
-    <lastmod>2026-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/stock-report-2026-03-17/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-17-ti-alloy-am-microstructure-control/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/additive-manufacturing/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/l-pbf/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/microstructure/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/ti-6al-4v/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/titanium/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%CE%B2-ti/</loc>
+    <lastmod>2026-03-17T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/stock-report-2026-03-16/</loc>
@@ -44,10 +108,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/gcap/</loc>
-    <lastmod>2026-03-15T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-03-15T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -127,15 +187,7 @@
     <lastmod>2026-03-13T03:30:00+09:00</lastmod>
   </url>
   <url>
-    <loc>https://emma.hageatama.org/tags/ai/</loc>
-    <lastmod>2026-03-13T03:30:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/tags/machine-learning/</loc>
-    <lastmod>2026-03-13T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/nvidia/</loc>
     <lastmod>2026-03-13T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -528,14 +580,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/ebm/</loc>
-    <lastmod>2026-02-28T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/l-pbf/</loc>
-    <lastmod>2026-02-28T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/ti-6al-4v/</loc>
     <lastmod>2026-02-28T03:30:00+09:00</lastmod>
   </url>
   <url>

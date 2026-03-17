@@ -7,12 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Mar 2026 15:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI</title>
+      <link>https://emma.hageatama.org/tags/ai/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://emma.hageatama.org/tags/gpu/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/gpu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Groq</title>
+      <link>https://emma.hageatama.org/tags/groq/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/groq/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GTC2026</title>
+      <link>https://emma.hageatama.org/tags/gtc2026/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/gtc2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NVIDIA</title>
+      <link>https://emma.hageatama.org/tags/nvidia/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/nvidia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VeraRubin</title>
+      <link>https://emma.hageatama.org/tags/verarubin/</link>
+      <pubDate>Tue, 17 Mar 2026 15:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/verarubin/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>株式</title>
       <link>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E6%A0%AA%E5%BC%8F/</guid>
       <description></description>
@@ -22,7 +82,7 @@
     <item>
       <title>投資</title>
       <link>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E6%8A%95%E8%B3%87/</guid>
       <description></description>
@@ -32,9 +92,69 @@
     <item>
       <title>日経平均</title>
       <link>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</link>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://emma.hageatama.org/tags/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Additive Manufacturing</title>
+      <link>https://emma.hageatama.org/tags/additive-manufacturing/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/additive-manufacturing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>L-PBF</title>
+      <link>https://emma.hageatama.org/tags/l-pbf/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/l-pbf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microstructure</title>
+      <link>https://emma.hageatama.org/tags/microstructure/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/microstructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ti-6Al-4V</title>
+      <link>https://emma.hageatama.org/tags/ti-6al-4v/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/ti-6al-4v/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Titanium</title>
+      <link>https://emma.hageatama.org/tags/titanium/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/titanium/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Β-Ti</title>
+      <link>https://emma.hageatama.org/tags/%CE%B2-ti/</link>
+      <pubDate>Tue, 17 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/tags/%CE%B2-ti/</guid>
       <description></description>
       
     </item>
@@ -190,31 +310,11 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://emma.hageatama.org/tags/ai/</link>
-      <pubDate>Fri, 13 Mar 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>https://emma.hageatama.org/tags/machine-learning/</link>
       <pubDate>Fri, 13 Mar 2026 03:30:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NVIDIA</title>
-      <link>https://emma.hageatama.org/tags/nvidia/</link>
-      <pubDate>Fri, 13 Mar 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/nvidia/</guid>
       <description></description>
       
     </item>
@@ -855,26 +955,6 @@
       <pubDate>Sat, 28 Feb 2026 03:30:00 +0900</pubDate>
       
       <guid>https://emma.hageatama.org/tags/ebm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>L-PBF</title>
-      <link>https://emma.hageatama.org/tags/l-pbf/</link>
-      <pubDate>Sat, 28 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/l-pbf/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ti-6Al-4V</title>
-      <link>https://emma.hageatama.org/tags/ti-6al-4v/</link>
-      <pubDate>Sat, 28 Feb 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/tags/ti-6al-4v/</guid>
       <description></description>
       
     </item>
