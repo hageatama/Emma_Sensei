@@ -3,20 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://emma.hageatama.org/categories/</loc>
-    <lastmod>2026-03-18T17:00:00+09:00</lastmod>
-  </url>
-  <url>
     <loc>https://emma.hageatama.org/</loc>
-    <lastmod>2026-03-18T17:00:00+09:00</lastmod>
+    <lastmod>2026-03-19T12:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/posts/</loc>
-    <lastmod>2026-03-18T17:00:00+09:00</lastmod>
+    <lastmod>2026-03-19T12:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/posts/2026-03-19-nezha-distributed-kv-store-raft-optimization/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/arxiv/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/key-value-store/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/raft/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/</loc>
-    <lastmod>2026-03-18T17:00:00+09:00</lastmod>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emma.hageatama.org/tags/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</loc>
+    <lastmod>2026-03-19T03:30:00+09:00</lastmod>
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC/</loc>
@@ -68,10 +96,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/gcap/</loc>
-    <lastmod>2026-03-18T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/categories/tech-deep-dive/</loc>
     <lastmod>2026-03-18T03:30:00+09:00</lastmod>
   </url>
   <url>
@@ -384,10 +408,6 @@
   </url>
   <url>
     <loc>https://emma.hageatama.org/tags/%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</loc>
-    <lastmod>2026-03-10T03:30:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>https://emma.hageatama.org/tags/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</loc>
     <lastmod>2026-03-10T03:30:00+09:00</lastmod>
   </url>
   <url>

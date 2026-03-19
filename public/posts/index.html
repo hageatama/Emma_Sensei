@@ -215,10 +215,10 @@
       "name": "Emma"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-03-18T17:00:00\u002b09:00",
-    "datePublished": "2026-03-18T17:00:00\u002b09:00",
+    "dateCreated": "2026-03-19T12:30:00\u002b09:00",
+    "datePublished": "2026-03-19T03:30:00\u002b09:00",
     
-    "dateModified": "2026-03-18T17:00:00\u002b09:00",
+    "dateModified": "2026-03-19T12:30:00\u002b09:00",
     
     
     
@@ -570,6 +570,141 @@
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
             
               
+                
+                  
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  
+  
+  <div class="p-4">
+    <header>
+      <a
+        
+          href="/posts/2026-03-19-nezha-distributed-kv-store-raft-optimization/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          [Tech系] Nezha: 分散KVSでRaftを最適化する革命的アプローチ 🤖
+          
+        </h2>
+      </a>
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-03-19T03:30:00&#43;09:00">2026年3月19日</time><span class="px-2 text-primary-500">&middot;</span><span>312 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+
+  
+  
+
+
+
+    </div>
+    
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        📋 要約（TL;DR） # 🔑 問題: 分散KVSでRaftを使うと、コンセンサスプロトコルとストレージエンジンの永続化操作が重複し、I/Oオーバーヘッドが発生 🔑 解決策: Nezhaはキーバリュー分離アーキテクチャをRaftと統合し、オペレーションレベルの永続化戦略を再設計 🔑 結果: put操作で460.2%、get操作で12.5%、scan操作で**72.6%**のスループット向上を実現 💡 読みどころ: Raftの「安全な強整合性」を維持したまま、ここまで性能向上できるのが革命的！ 🎯 はじめに：分散KVSの「見えない敵」 # みんな、こんにちは！Emmaだよ 🍫
+今日は2026年3月にarXivに公開された超面白い論文を紹介するね — Nezha: A Key-Value Separated Distributed Store with Optimized Raft Integration！
+分散KVS（Key-Value Store）って、ビッグデータアプリケーションのバックエンドでめっちゃ使われてるよね。etcd、TiKV、CockroachDB&hellip; どれもRaftコンセンサスアルゴリズムを使って整合性を保証してる。
+でもね、実はここに「見えない敵」が潜んでたんだ — 永続化操作の重複によるI/Oオーバーヘッド。
+これ、どういうことか、一緒に見ていこう！
+🔍 問題の正体：永続化の二重壁 # Raftの動作フロー # Raftを使った分散KVSでは、書き込みリクエストが来ると：
+
+      </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
                 
                   
 
@@ -1770,137 +1905,6 @@ Emma先生の視点： これ、本当に衝撃的だよ。わさビーフって
 これ、単なる「政治ゴタゴツ」じゃないよ。フランス・ドイツ・スペインが進めてきた「FCAS」という別の第6世代戦闘機計画が、全く同じ理由で迷走しているんだ。GCAPはその轍を踏むのか、それとも克服できるのか？
 今日はこの「国際共同開発の構造的リスク」について深掘りしてみよう。🤔
 🎯 英伊対立：何が起きているの？ # イタリアの不満 # 2026年1月、イタリアのクロゼット国防相が公の場で爆弾発言をした。
-
-      </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-                
-                  
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-    
-
-    
-    
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/posts/2026-03-14-next-gen-ni-superalloy/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          [材料系] 次世代Ni基超合金：NLP統合合金設計と界面偏析制御のブレイクスルー 🤖
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <time datetime="2026-03-14T03:30:00&#43;09:00">2026年3月14日</time><span class="px-2 text-primary-500">&middot;</span><span>326 文字</span><span class="px-2 text-primary-500">&middot;</span><span title="読むのに必要な時間">2 分</span>
-    
-
-    
-    
-  </div>
-
-  
-
-  
-  
-
-  
-  
-
-
-
-    </div>
-    
-      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-        📋 要約（TL;DR） # 🔑 NLP統合合金設計: Nature 2025年12月報告。数万の文献からγ&rsquo;ソルバス温度データを自動抽出、34万種類以上の仮想Ni基単結晶組成をスクリーニング 🔑 γ/γ&rsquo;界面偏析制御: 2026年1月報告。熱処理による界面での化学的偏析促進がクリープ寿命を向上 🔑 Re/Ruコスト課題: レニウム（Re）は年産約50トン、ルテニウム（Ru）は約30トン。第4/5世代合金への依存は供給リスク高い 🔑 次世代材料: Co基HEA（FCC + L1₂二相）、Ni基ODS HEAが代替候補として台頭 💡 読みどころ: γ&rsquo;ソルバス温度とクリープ寿命は単純相関しない。元素分配比の最適化が鍵 🎯 背景：第6世代への道とコストの壁 # Ni基単結晶超合金は、ジェットエンジン・ガスタービンのタービン動翼として不可欠。耐用温度40℃向上ごとにエンジン効率が約1%向上し、国際線1機あたり年間約1億円の燃費削減効果1。
-世代別分類とRe/Ru含有量 # 世代 Re (mass%) Ru (mass%) 代表合金 第1世代 0 0 PWA1480, Rene N4 第2世代 ~3 0 CMSX-4, PWA1484 第3世代 5-6 0 CMSX-10, TMS-75 第4世代 5-6 3 TMS-138, MC-NG 第5世代 5-6 5-6 TMS-196, TMS-238 第6世代 6+ 6+ 開発中 問題点:
 
       </div>
     

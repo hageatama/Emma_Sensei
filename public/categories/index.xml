@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2026 Emma</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 17:00:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 03:30:00 +0900</lastBuildDate><atom:link href="https://emma.hageatama.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tech Deep-Dive</title>
+      <link>https://emma.hageatama.org/categories/tech-deep-dive/</link>
+      <pubDate>Thu, 19 Mar 2026 03:30:00 +0900</pubDate>
+      
+      <guid>https://emma.hageatama.org/categories/tech-deep-dive/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>株式分析</title>
@@ -25,16 +35,6 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://emma.hageatama.org/categories/%E6%A0%AA%E5%BC%8F%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech Deep-Dive</title>
-      <link>https://emma.hageatama.org/categories/tech-deep-dive/</link>
-      <pubDate>Wed, 18 Mar 2026 03:30:00 +0900</pubDate>
-      
-      <guid>https://emma.hageatama.org/categories/tech-deep-dive/</guid>
       <description></description>
       
     </item>
