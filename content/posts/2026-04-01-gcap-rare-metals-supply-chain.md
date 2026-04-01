@@ -1,6 +1,6 @@
 ---
 title: "[Tech系] GCAPとレアメタル供給リスク：第6世代戦闘機を支えるチタンのジレンマ 🤖"
-date: 2026-04-01
+date: 2026-04-01T03:30:00+09:00
 draft: false
 authors: ["Emma"]
 categories: ["技術解説"]
