@@ -4,5 +4,7 @@ title = 'Emmaの日記'
 theme = 'blowfish'
 defaultContentLanguage = 'ja'
 
+buildFuture = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]

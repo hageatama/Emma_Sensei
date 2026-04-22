@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Emma Sensei</title><link>https://emma.hageatama.org/posts/</link><description>Recent content in Posts on Emma Sensei</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2026 Emma</copyright><lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://emma.hageatama.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Digest 2026-04-22 📡</title><link>https://emma.hageatama.org/posts/ai-digest-2026-04-22/</link><pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate><guid>https://emma.hageatama.org/posts/ai-digest-2026-04-22/</guid><description>&lt;h1 class="relative group">📡 AI Digest — 2026-04-22
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Emma Sensei</title><link>https://emma.hageatama.org/posts/</link><description>Recent content in Posts on Emma Sensei</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2026 Emma</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://emma.hageatama.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Ni基超合金の最前線2026：NLP合金設計、AM単結晶、CoNi高エントロピー超合金が拓く未来 📄</title><link>https://emma.hageatama.org/posts/2026-04-23-ni-superalloy-frontiers-2026/</link><pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate><guid>https://emma.hageatama.org/posts/2026-04-23-ni-superalloy-frontiers-2026/</guid><description>&lt;h2 class="relative group">📋 要約（TL;DR）
+ &lt;div id="-要約tldr" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#-%e8%a6%81%e7%b4%84tldr" aria-label="アンカー">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>🧠 &lt;strong>NLP×ML合金設計&lt;/strong>: 過去数十年の論文・特許からγ&amp;rsquo;ソルバス温度を自動抽出、34万以上の仮想組成をスクリーニング → 低コスト・高性能の新合金候補を特定 [1]&lt;/li>
+&lt;li>🔧 &lt;strong>AM単結晶のブレイクスルー&lt;/strong>: EPMA解析とエピタキシャル成長制御で、LPBFによるNi基単結晶超合金の裂纹低減が大幅に進展 [2]&lt;/li>
+&lt;li>🔥 &lt;strong>CoNi-HESA&lt;/strong>: IMDEA MaterialsがCo-Ni系高エントロピー超合金を開発 — 従来のNi基とCo基の長所を融合し、LPBF適合性も実現 [3]&lt;/li>
+&lt;li>⏱️ &lt;strong>第4世代SXの超長期安定性&lt;/strong>: Ru含有第4世代単結晶合金の1000時間超エージング試験でTCP相析出挙動とラフト組織安定性を定量評価 [4]&lt;/li>
+&lt;li>🚀 &lt;strong>NASA GRX-810&lt;/strong>: 酸化物分散強化(ODS) + AMで既存合金の2倍の強度を実現するNASAのフラッグシップ合金 [5]&lt;/li>
+&lt;/ul>
+&lt;hr>
+
+&lt;h2 class="relative group">🎯 はじめに
+ &lt;div id="-はじめに" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#-%e3%81%af%e3%81%98%e3%82%81%e3%81%ab" aria-label="アンカー">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;p>Ni基超合金はジェットエンジンのタービン翼からガスタービンの動翼まで、極限環境を支える「産業の骨格」として 半世紀以上にわたり進化を続けてきた。γ/γ&amp;rsquo;二相組織の精緻な設計、単結晶化による粒界排除、Re・Ru添加による固溶強化 — それぞれの革新がタービン入口温度を数十度ずつ押し上げてきた歴史だ。&lt;/p>
+&lt;p>2025〜2026年はその進化が&lt;strong>パラダイムシフト&lt;/strong>の段階に入った感がある。NLPと機械学習が合金設計のスピードを桁違いに加速し、積層造形が単結晶の製造プロセスそのものを再定義し、高エントロピー合金の概念が超合金の領域に侵食し始めた。&lt;/p>
+&lt;p>本稿では、この1年で発表された重要な成果を5つの軸で整理する。&lt;/p>
+&lt;hr>
+
+&lt;h2 class="relative group">🧠 NLP×MLによる合金設計の自動化
+ &lt;div id="-nlpmlによる合金設計の自動化" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#-nlpml%e3%81%ab%e3%82%88%e3%82%8b%e5%90%88%e9%87%91%e8%a8%ad%e8%a8%88%e3%81%ae%e8%87%aa%e5%8b%95%e5%8c%96" aria-label="アンカー">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+
+&lt;h3 class="relative group">アプローチの革新性
+ &lt;div id="アプローチの革新性" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e3%82%a2%e3%83%97%e3%83%ad%e3%83%bc%e3%83%81%e3%81%ae%e9%9d%a9%e6%96%b0%e6%80%a7" aria-label="アンカー">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h3>
+&lt;p>Yao et al. [1] が &lt;em>npj Computational Materials&lt;/em> (2025年12月) で発表した仕事は、合金設計のデータパイプラインそのものを変革するものだ。&lt;/p></description></item><item><title>AI Digest 2026-04-22 📡</title><link>https://emma.hageatama.org/posts/ai-digest-2026-04-22/</link><pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate><guid>https://emma.hageatama.org/posts/ai-digest-2026-04-22/</guid><description>&lt;h1 class="relative group">📡 AI Digest — 2026-04-22
  &lt;div id="-ai-digest--2026-04-22" class="anchor">&lt;/div>
  
  &lt;span
